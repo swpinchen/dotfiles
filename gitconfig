@@ -37,6 +37,7 @@
 
   # Removes a file from the index
   unstage = reset HEAD --
+	unadd = reset HEAD
 
 [help]
   autocorrect = 1
