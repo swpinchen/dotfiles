@@ -11,7 +11,7 @@
 
 [core]
   pager = less -FRSX
-	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
+	editor = code --wait
 
 [alias]
   co = checkout
@@ -51,10 +51,12 @@
 [pull]
   rebase = false
 [user]
-	email = s_pinchen@hotmail.com
-	name = Stuart Pinchen
+	email = swpinchen@outlook.com
+	name = swpinchen
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+[hub]
+	protocol = https
