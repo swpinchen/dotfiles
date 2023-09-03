@@ -1,0 +1,58 @@
+{
+  "terminal.integrated.rendererType": "dom",
+  "workbench.startupEditor": "newUntitledFile",
+  "auto-close-tag.fullMode": true,
+  "auto-close-tag.SublimeText3Mode": true,
+  "editor.detectIndentation": false,
+  "files.insertFinalNewline": true,
+  "files.hotExit": "off",
+  "editor.trimAutoWhitespace": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.useTabStops": true,
+  "editor.wordWrap": "off",
+  "editor.formatOnPaste": true,
+  "editor.snippetSuggestions": "top",
+  "workbench.colorTheme": "Monokai",
+  "editor.renderWhitespace": "all",
+  "workbench.editor.enablePreview": true,
+  "html.format.wrapAttributesIndentSize": 4,
+  "editor.accessibilitySupport": "off",
+  "editor.tabSize": 2,
+  "emmet.excludeLanguages": ["markdown"],
+  "emmet.extensionsPath": [""],
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "erb": "html"
+  },
+  "workbench.editor.untitled.hint": "hidden",
+  "ruby.rubocop.executePath": "/Users/hato4649mb/.rbenv/shims/",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "ruby.rubocop.configFilePath": ".rubocop.yml",
+  "[ruby]": {
+    "editor.defaultFormatter": "misogi.ruby-rubocop"
+  },
+  "workbench.editorAssociations": {
+    "*.wav": "default"
+  },
+  "redhat.telemetry.enabled": true,
+  "salesforcedx-vscode-apex.java.home": "/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home",
+  "remote.SSH.defaultExtensions": ["gitpod.gitpod-remote-ssh"],
+  "remote.SSH.configFile": "/var/folders/v3/vk39y80s19sc11169jb4svgh0000gn/T/gitpod_ssh_config-3136-5x3G4rRd3G5y",
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "markdown",
+    "react"
+  ],
+  "application.shellEnvironmentResolutionTimeout": 20,
+  "python.analysis.typeCheckingMode": "basic",
+  "python.pythonPath": "/usr/local/bin/python3.9",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true
+  }
+}
